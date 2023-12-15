@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think, I'm active**
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungLynnShann&theme=blue_navy_icons=true)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungLynnShann&theme=blue_navy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
