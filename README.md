@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think, I'm active**
 
-- ### My GitHub Stats:
+### My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaungLynnShann&layout=compact&theme=vision-friendly-dark)
 
 <h3 align="left">Connect with me:</h3>
