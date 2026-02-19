@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **I think, I'm active**
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungLynnShann&theme=blue_navy)
+- ### My GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaungLynnShann&layout=compact&theme=vision-friendly-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
