@@ -3,7 +3,7 @@
 🚀 Passionate Software Developer | Web Developer | Tech Enthusiast  
 
 Welcome to my GitHub Profile!  
-I love building web applications, exploring new technologies, and solving real-world problems with code.
+I love building **web & mobile applications**, exploring new technologies, and solving real-world problems with code.
 
 ---
 
@@ -60,7 +60,7 @@ I love building web applications, exploring new technologies, and solving real-w
 
 ## 📈 GitHub Stats
 
-![KaungLynnShann's GitHub stats](![KaungLynnShann's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaungLynnShann&show_icons=true&theme=tokyonight)
+![KaungLynnShann's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaungLynnShann&show_icons=true&theme=tokyonight)
 
 ---
 
