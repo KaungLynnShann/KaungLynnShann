@@ -60,7 +60,7 @@ I love building **web & mobile applications**, exploring new technologies, and s
 
 ## 📊 Top Languages
 
-![KaungLynnShann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungLynnShann&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![KaungLynnShann's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KaungLynnShann&layout=compact&theme=tokyonight)
 
 ---
 
