@@ -1,21 +1,74 @@
-<h1 align="center">Hi 👋, I'm Kaung Lynn Shann</h1>
-<h3 align="center">Full Stack developer</h3>
+# Hi there 👋 I'm Kaung Lynn Shann
 
-- 🌱 I’m currently learning **vuejs**
+🚀 Passionate Software Developer | Web Developer | Tech Enthusiast  
 
-- 💬 Ask me about **spring boot**
+Welcome to my GitHub Profile!  
+I love building web applications, exploring new technologies, and solving real-world problems with code.
 
-- 📫 How to reach me **kaungshann.forjob@gmail.com**
+---
 
-- ⚡ Fun fact **I think, I'm active**
+## 💻 About Me
 
-### My GitHub Stats:
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaungLynnShann&layout=compact&theme=vision-friendly-dark)
+- 🌱 Currently learning and improving my skills in Full-Stack Development  
+- 🔭 Working on personal and academic projects  
+- 💡 Interested in Web Development, Backend Systems & AI  
+- 🎯 Goal: To become a professional Software Engineer  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/are.pu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/are.pu1" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- Angular
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Vue
+- Streamlit
+
+### ⚙️ Backend
+- Spring Boot
+- Java
+- FastAPI
+- Python
+
+### 🗄️ Database
+- MySQL
+- MSSQL
+- SQLite
+- PostgreSQL
+- Firebase
+
+### 🧰 Tools & Others
+- Git & GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+- Eclipse
+
+---
+
+## 📌 Featured Projects
+
+- 📊 NexStock Predictor – Stock prediction system using FastAPI & Streamlit  
+- 💰 Expense Tracker App – Personal finance management app  
+- 🛒 Clothes Shop – E-commerce UI project  
+- 🍽️ Restaurant Order Service – Backend service project  
+
+---
+
+## 📈 GitHub Stats
+
+![KaungLynnShann's GitHub stats](![KaungLynnShann's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaungLynnShann&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: kaungshann.forjob@gmail.com  
+- 💼 LinkedIn: (https://github.com/KaungLynnShann)  
+
+---
+
+⭐️ Thank you for visiting my profile!
