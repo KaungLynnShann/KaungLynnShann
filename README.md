@@ -46,16 +46,6 @@ I love building **web & mobile applications**, exploring new technologies, and s
 - VS Code
 - IntelliJ IDEA
 - Eclipse
-
----
-
-## 📌 Featured Projects
-
-- 📊 NexStock Predictor – Stock prediction system using FastAPI & Streamlit  
-- 💰 Expense Tracker App – Personal finance management app  
-- 🛒 Clothes Shop – E-commerce UI project  
-- 🍽️ Restaurant Order Service – Backend service project  
-
 ---
 
 ## 📊 Top Languages
